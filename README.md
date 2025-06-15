@@ -2,7 +2,7 @@
 
 Website ini merupakan hasil implementasi sistem manajemen jasa percetakan berbasis web responsif yang dikembangkan selama kegiatan Praktik Kerja Lapangan (PKL) di PDP Printing New.
 
-Tampilan Utama
+## Tampilan Utama
 ![Tampilan Utama](Utama.png)
 
 ## 📌 Fitur Utama
